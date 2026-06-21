@@ -1,0 +1,6 @@
+{
+  "name": "Camp Feedback Hub",
+  "description": "منصة متكاملة ومصممة بشكل راقٍ ومميز لجمع تقييمات المقيمين حول جودة الخدمات المقدمة في الكامب (الطعام، النظافة، الغسيل) مع لوحة تحكم تفاعلية للمشرفين لمتابعة الأداء وتحسينه.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
